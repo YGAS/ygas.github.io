@@ -15,7 +15,7 @@ layout: post
 
 ## 联系方式
 
-邮箱：ycl310397039@gmail.com
+邮箱：ycl310397039@hotmail.com
 
 [Github](https://github.com/YGAS)
 
